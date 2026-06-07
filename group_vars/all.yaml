@@ -1,2 +1,11 @@
 ansible_user: ec2-user
 ansible_password: DevOps321
+MONGODB_HOST: mongodb.vinaydevops.online
+REDIS_HOST: redis.vinaydevops.online
+MYSQL_HOST: mysql.vinaydevops.online
+RABBITMQ_HOST: rabbitmq.vinaydevops.online
+CATALOGUE_HOST: catalogue.vinaydevops.online
+USER_HOST: user.vinaydevops.online
+CART_HOST: cart.vinaydevops.online
+SHIPPING_HOST: shipping.vinaydevops.online
+PAYMENT_HOST: payment.vinaydevops.online
